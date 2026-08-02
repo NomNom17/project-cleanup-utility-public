@@ -1,0 +1,138 @@
+# ============================================
+# Unity 6000+ Perforce Ignore File
+# Compatible with: 6000.1.17f1
+# ============================================
+
+# -------------------------
+# OS / IDE JUNK
+# -------------------------
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.swp
+*.lock
+*.lnk
+*.orig
+
+# VS / JetBrains / VSCode junk
+.vs/
+.vscode/
+.idea/
+.git/
+.idea/
+*.user
+*.csproj
+*.sln
+*.pidb
+*.mdb
+
+# -------------------------
+# UNITY – GENERATED FILES
+# -------------------------
+
+# Ignore Library completely (recursive)
+[Ll]ibrary/**
+Library/**
+Library/PackageCache/**
+Library/PackageCache/
+
+
+# Cache server & script assemblies
+ScriptAssemblies/
+*.mdb
+
+# Unity’s build artifacts
+Build/
+Builds/
+*/Build/
+*/Builds/
+
+# Cache, streaming, temp
+Temp/
+Obj/
+obj/
+Logs/
+MemoryCaptures/
+
+# Rider caches
+*.DotSettings.user
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# Crash dumps
+Sysinfo.txt
+
+# Unity Shader Cache (auto-regen)
+*.shaderinfo
+*.shadergraphimporter
+*.cginc.meta
+
+# -------------------------
+# PACKAGES
+# -------------------------
+# You SHOULD commit Packages/manifest.json and packages-lock.json
+# because they define your project dependencies.
+# But ignore everything the Package Manager regenerates.
+Packages/com.unity.*.tmp/
+*.package
+
+# -------------------------
+# TEXTURE / MODEL IMPORTERS
+# -------------------------
+*.blend1
+*.blend2
+*.max
+*.mayaSwatches
+*.fbx~*
+*.psd~*
+*.png~*
+
+# -------------------------
+# ASSET META FILES
+# Unity REQUIRES ALL *.meta files to be submitted.
+# Do NOT ignore them.
+# -------------------------
+Assets/Sprites/Pirate Pack/
+
+
+# -------------------------
+# GIT / OTHER VCS JUNK
+# -------------------------
+.git/
+.gitignore
+.hg/
+.hgignore
+
+# -------------------------
+# LOCAL CONFIG FILES
+# -------------------------
+UserSettings/
+*.prefs
+
+# Unity 6000: new player config caching
+RuntimeCache/
+RuntimeData/
+
+# Unity 6: DOTS / Entities build caches
+Artifacts/
+CodeGen/
+
+# -------------------------
+# COLLAB / PLASTIC
+# -------------------------
+.collab/
+PlasticAssets/
+
+# -------------------------
+# AI / VIDEO PROCESSING ARTIFACTS
+# -------------------------
+*.ffmpeg
+*.mp4
+*.mov
+*.avi
+*.wav
+*.flac
+*.mp3
