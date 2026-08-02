@@ -96,4 +96,4 @@ Neither option is a universal default — pick whichever fits your team's workfl
 
 ## License
 
-Apache License, Version 2.0 — see [`LICENSE`](./LICENSE) and [`NOTICE`](./NOTICE).
+GNU General Public License v3.0 (GPL-3.0) — see [`LICENSE`](./LICENSE). Any distributed modified version or derivative work must also be released as source code under GPL-3.0, with prominent notice of what was changed. See the [GNU GPL FAQ](https://www.gnu.org/licenses/gpl-faq.html) for common questions about redistributing and modifying GPL-licensed code.

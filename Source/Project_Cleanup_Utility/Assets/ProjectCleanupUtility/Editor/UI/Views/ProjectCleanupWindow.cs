@@ -1,15 +1,21 @@
 // -----------------------------------------------------------------------
 // Project Cleanup Utility
-// Copyright 2026 NomNom. All rights reserved.
+// Copyright (C) 2026 NomNom
 //
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
 //
-//     http://www.apache.org/licenses/LICENSE-2.0
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+// GNU General Public License for more details.
 //
-// See the LICENSE and NOTICE files in the root of this repository for
-// full license text and attribution requirements.
+// You should have received a copy of the GNU General Public License
+// along with this program. If not, see <https://www.gnu.org/licenses/>.
+//
+// Source: https://github.com/NomNom17/Project-Cleanup-Utility
 // -----------------------------------------------------------------------
 
 using ProjectCleanupUtility.Core;
